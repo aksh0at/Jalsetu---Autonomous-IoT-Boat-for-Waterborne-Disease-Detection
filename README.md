@@ -7,9 +7,7 @@
 An autonomous IoT-enabled boat designed to monitor floodwater quality in real time, enabling early detection of contaminated water sources and helping prevent waterborne disease outbreaks in flood-prone regions.
 </p>
 
-<p align="center">
-<img src="images/banner.png" width="900">
-</p>
+
 
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-System-blue?style=for-the-badge)
@@ -73,11 +71,7 @@ The receiver forwards the information to a centralized **Web Dashboard**, allowi
 
 ---
 
-# 🚀 System Overview
 
-<p align="center">
-<img src="images/system-overview.png" width="900">
-</p>
 
 ---
 
